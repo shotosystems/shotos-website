@@ -78,7 +78,10 @@ E-Mail: ${email}
 Message:
 ${message}
 
-Please note: This is an automated response! Please wait patiently! Responses can take up to 7 days!
+Costumer information:
+----------------------
+
+Please note: This is an automatic generated template! Please do not change any content!
 
 Our services are fully free and there are no hidden fees! Feel free to ask if you have questions! You can give them to support@shoto.is-a.dev!
 
